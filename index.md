@@ -7,3 +7,8 @@
 ```
 $git init
 initialzed empty git repository in /user/skills/projects/recipe-repository/.git/
+```
+
+```javascript
+var myVar = "Hello, world!"
+```
