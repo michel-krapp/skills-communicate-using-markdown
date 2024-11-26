@@ -12,3 +12,10 @@ initialzed empty git repository in /user/skills/projects/recipe-repository/.git/
 ```javascript
 var myVar = "Hello, world!"
 ```
+
+- [x] list syntax is required
+- [x] this item is complete
+- [ ] this item is not complete
+- [ ] turn on github pages
+- [ ] outline my portfolio
+- [ ] Introduce myself to the world
